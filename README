@@ -1,0 +1,3 @@
+A set of core utilities with an emphasis on POSIX conformance. 
+No traditional options are favored, only POSIX options are supported. 
+"Posixcore" ongoing effort, please check back at a later date
